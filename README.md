@@ -53,9 +53,13 @@ Anime_Face_Generation_Using_GANs/
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository:
+```bash
+git clone https://github.com/HimadeepRagiri/Anime_Face_Generation_Using_GANs.git
+cd Anime_Face_Generation_Using_GANs
+```
 
-2. Create a virtual environment:
+3. Create a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
